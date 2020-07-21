@@ -2,6 +2,9 @@
 
 Surge Website URL: http://anasbaigmughal-expense-tracker-react.surge.sh/
 
+## Expense Tracker App:
+<kbd><img src="images/img1.PNG" /></kbd>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
